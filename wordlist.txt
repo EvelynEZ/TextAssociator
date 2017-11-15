@@ -1,0 +1,13 @@
+dog, pet, bark, hound, man’s best friend
+cat, animal, siamese, stray, meow
+apple, cider, juice, tree, fruit, newton, electronic 
+alcohol, party, cheers, drink, DUI, celebration, hangover, demon drink
+adventure, stimulation, risk, intrepid, bold, exciting, fearless
+baby, young, infant, kid, nursery, toy
+student, learner, pupil, dorm, senior, graduate, peer
+hospital, nurse, icu, medical, municipal, patient
+China, asia, country, yuan, communist, ancient
+Japan, asia, ninon, island, manga, cosplay
+spanish, latin, language, rhythm, hola
+husky, eskimo, animal, ski, mannered, haired, siberia
+influenza, contagion, infection, epidemic, outbreak 
